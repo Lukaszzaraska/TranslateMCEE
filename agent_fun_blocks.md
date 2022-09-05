@@ -1,4 +1,4 @@
-# Agent Fun Functions: Blocks
+# Agent Śmieszne funkcje: Bloki
 
 ## Krok 1
 Otrzymujesz komende ``||player:on chat||`` komenda **marchewka**, w ``||player:on chat||`` komenda **kurczak** w ``||player:on chat||`` i komenda **śnieżka**.
