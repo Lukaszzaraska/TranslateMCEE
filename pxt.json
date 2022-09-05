@@ -6,7 +6,8 @@
         "builder": "*"
     },
     "files": [
-        "agent_fun_blocks_T.md"
+        "agent_fun_blocks_T.md",
+         "agent_fun_blocks_T2.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
