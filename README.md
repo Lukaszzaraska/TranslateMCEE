@@ -13,3 +13,5 @@ W plikach danego świata:
 
 Przykład linku:
 http://minecraft.makecode.com/#tutorial:https://github.com/LukaszZaraska/TranslateMCEE/agent_fun_blocks_T
+
+Po edycji na githubie pliku należy poczekac pare minut zanim zacznie działać 
