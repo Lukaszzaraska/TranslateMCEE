@@ -6,4 +6,4 @@
 3. Zmodyfikuj link w plikach gry (blocks.mcfunction)
 
 Przykład linku:
-http://minecraft.makecode.com/#tutorial:https://github.com/LukaszZaraska/TranslateMCEE/agent_fun_blocks
+http://minecraft.makecode.com/#tutorial:https://github.com/LukaszZaraska/TranslateMCEE/agent_fun_blocks_T
