@@ -1,5 +1,8 @@
 # TranslateMCEE
 **Tłumaczenie samouczków do wbudowanej mapy w MC EE (funkcje)**
+- T1 --> poziom nowicjusz
+- T2 --> poziom zaawansowany
+- T3 --> poziom ekspert
 
 1. Stwórz plik z rozszerzeniem .md 
 2. Umieść nazwe pliku w pxt.json
