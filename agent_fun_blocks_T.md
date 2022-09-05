@@ -1,7 +1,7 @@
 # Agent Śmieszne funkcje: Bloki
 
 ## Krok 1
-Otrzymujesz komende ``||player:on chat||`` komenda **marchewka**, w ``||player:on chat||`` komenda **kurczak** w ``||player:on chat||`` i komenda **śnieżka**.
+Otrzymujesz komende ``||player:Przy poleceniu gracza||`` komenda **marchewka**, w ``||player:Przy poleceniu gracza||`` komenda **kurczak** w ``||player:Przy poleceniu gracza||`` i komenda **śnieżka**.
 
 ```template
 player.onChat("marchewka", function () {
@@ -29,7 +29,7 @@ player.onChat("śnieżka", function () {
 ```
 
 ## Krok 2
-Dodaj nowy blok ``||player:on item used||`` i wybierz **Blaze Rod**.  I w ``||player:run chat||`` nazwij to  **marchewka**, w kolejnej komendzie ``||player:run chat||``którą nzawiemy **kurczak**, i  w trzecim bloku``||player:run chat||`` który nazwiemy  **śnieżka**.
+Dodaj nowy blok ``||player:Kiedy przedmiot został użyty||`` i wybierz **Blaze Rod**.  I w ``||player:Przy poleceniu gracza||`` nazwij to  **marchewka**, w kolejnej komendzie ``||player:Przy poleceniu gracza||``którą nzawiemy **kurczak**, i  w trzecim bloku``||player:Przy poleceniu gracza||`` który nazwiemy  **śnieżka**.
 
 ```blocks
 player.onItemInteracted(BLAZE_ROD, function () {
