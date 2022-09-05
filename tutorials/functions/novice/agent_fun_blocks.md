@@ -1,7 +1,7 @@
 # Agent Fun Functions: Blocks
 
-## Step 1
-Otrzymujesz komende ``||player:on chat||`` komenda **marchewka**, w ``||player:on chat||`` komenda **kurczak** w ``||player:on chat||`` i komenda **śnieżka*.
+## Krok 1
+Otrzymujesz komende ``||player:on chat||`` komenda **marchewka**, w ``||player:on chat||`` komenda **kurczak** w ``||player:on chat||`` i komenda **śnieżka**.
 
 ```template
 player.onChat("marchewka", function () {
@@ -28,7 +28,7 @@ player.onChat("śnieżka", function () {
 })
 ```
 
-## Step 2
+## Krok 2
 Dodaj nowy blok ``||player:on item used||`` i wybierz **Blaze Rod**.  I w ``||player:run chat||`` nazwij to  **marchewka**, w kolejnej komendzie ``||player:run chat||``którą nzawiemy **kurczak**, i  w trzecim bloku``||player:run chat||`` który nazwiemy  **śnieżka**.
 
 ```blocks
