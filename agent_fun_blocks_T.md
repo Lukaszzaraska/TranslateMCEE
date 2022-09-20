@@ -39,6 +39,6 @@ player.onItemInteracted(BLAZE_ROD, function () {
 })
 ```
 
-## Step 3
+## Krok 3
 
 Naciśnij przycisk **Start**, wróć do Minecrafta i wpisz na czacie komendy **marchewka**, **kurczak**, **śnieżka**, aby zobaczyć co się stanie.
