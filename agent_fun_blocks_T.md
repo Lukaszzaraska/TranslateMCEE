@@ -1,7 +1,7 @@
 # Agent Śmieszne funkcje: Bloki
 
 ## Krok 1
-Mamy gotowe 3 komendy ``||player:Przy poleceniu gracza||`` komenda **marchewka**,  ``||player:Przy poleceniu gracza||`` komenda **kurczak**  ``||player:Przy poleceniu gracza||`` i komenda **śnieżka**.
+Mamy gotowe 3 komendy ``||player:uruchom polecenie czatu||`` komenda **marchewka**,  ``||player:Przy poleceniu gracza||`` komenda **kurczak**  ``||player:Przy poleceniu gracza||`` i komenda **śnieżka**.
 
 ```template
 player.onChat("marchewka", function () {
