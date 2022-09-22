@@ -5,3 +5,7 @@ Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na dzień
 gameplay.timeSet(gameplay.time(DAY))
 
 ```
+```template
+
+```
+
