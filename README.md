@@ -14,4 +14,13 @@ W plikach danego świata:
 Przykład linku:
 http://minecraft.makecode.com/#tutorial:https://github.com/LukaszZaraska/TranslateMCEE/agent_fun_blocks_T
 
-Po edycji na githubie pliku należy poczekac pare minut zanim zacznie działać 
+**Tworzenie samouczków połączonych z githubem**
+Wpisujemy komende u npc
+
+przykład samouczka z którego można wyjść
+execute @p ~ ~ ~ codebuilder navigate @s false http://minecraft.makecode.com/#tutorial:https://github.com/Lukaszzaraska/TranslateMCEE/MC2_17/zad1
+
+Przykład zablokowanego samouczka
+execute @p ~ ~ ~ codebuilder navigate @s false http://minecraft.makecode.com//?lockedEditor=1#tutorial:https://github.com/Lukaszzaraska/TranslateMCEE/MC2_17/zad1
+
+Po edycji na githubie pliku należy poczekać pare minut zanim zacznie działać 
