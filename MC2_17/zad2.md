@@ -3,6 +3,6 @@ gameplay.setWeather(CLEAR)
 
 ```
 ## Krok 1
-Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na **dzień** ssss
+Użyj bloczka ``||Gameplay:Pogoda||`` ustawiając na **wyczyść**
 
 
