@@ -1,8 +1,8 @@
 ```blocks
-mobs.spawn(ARROW_PROJECTILE_MOB, pos(0, 0, 0))
+mobs.spawn(ARROW_PROJECTILE_MOB, world(0, 0, 0))
 ```
 ## Krok 1
-Stań na celu
+Sprawdź koordynaty **celu**
 
 ## Krok 2
-Użyj bloczka ``||Mobs: Zespawnuj||`` ``||Mobs: pocisk||`` i wybierz strzałe 
+Użyj bloczka ``||Mobs: Zespawnuj||`` ``||Mobs: pocisk||`` i wybierz strzałe a następnie wybierz koordynaty świata i wpisz sprawdzone wcześniej koordynaty celu
