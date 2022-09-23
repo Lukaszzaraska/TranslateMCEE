@@ -1,7 +1,7 @@
 ## Krok 1
-Użyj bloczka ``||Gameplay:Pogoda||`` ustawiając **wyczyść**
+Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na **dzień** ssss
 
 ```blocks
-gameplay.setWeather(CLEAR)
+gameplay.timeSet(gameplay.time(DAY))
 
 ```
