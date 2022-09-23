@@ -9,7 +9,8 @@
         "agent_fun_blocks_T.md",
         "agent_fun_blocks_T2.md",
         "agent_fun_blocks_T3.md",
-        "MC2_17/zad1.md"
+        "MC2_17/zad1.md",
+        "MC2_17/zad2.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
