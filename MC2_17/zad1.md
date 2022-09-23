@@ -1,5 +1,5 @@
 ## Krok 1
-Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na dzień
+Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na **dzień**
 
 ```blocks
 gameplay.timeSet(gameplay.time(DAY))
