@@ -14,7 +14,7 @@ W plikach danego świata:
 Przykład linku:
 http://minecraft.makecode.com/#tutorial:https://github.com/LukaszZaraska/TranslateMCEE/agent_fun_blocks_T
 
-**Tworzenie samouczków połączonych z githubem**
+**Tworzenie samouczków połączonych z githubem**<br>
 Wpisujemy komende u npc
 
 przykład samouczka z którego można wyjść
