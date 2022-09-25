@@ -1,5 +1,6 @@
 
-# Nie potrzebujesz teraz programowania, wróć do gry
+# Nie potrzebujesz teraz programowania
+wróć do gry
 
 ```blocks
 player.say(":)")
