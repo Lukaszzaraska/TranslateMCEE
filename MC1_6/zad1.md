@@ -1,7 +1,7 @@
 ### @activities 1
 ## Zadanie pierwsze
 ### Krok 1
-Ustaw odpowiednio agenta na niebieskiej wełnie używając jeśłi trzeba ``||agent:teleportuj do gracza||`` ,
+Ustaw odpowiednio agenta na niebieskiej wełnie używając jeśli trzeba ``||agent:teleportuj do gracza||`` ,
 ``||agent:obróć się w ||`` oraz  ``||agent:przesuń się w góre||``
 ### Krok 2
 Agnet musi stanąć na jakiekolwiek płytce naciskowej. Więc agent może iść
