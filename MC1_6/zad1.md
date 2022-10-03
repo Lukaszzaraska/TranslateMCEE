@@ -1,4 +1,4 @@
-### @activities 1
+
 ## Zadanie pierwsze
 ### Krok 1
 Ustaw odpowiednio agenta na niebieskiej wełnie używając jeśli trzeba ``||agent:teleportuj do gracza||`` ,
