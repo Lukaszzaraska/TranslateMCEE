@@ -6,6 +6,7 @@
         "builder": "*"
     },
     "files": [
+         "README.md",
         "agent_fun_blocks_T.md",
         "agent_fun_blocks_T2.md",
         "agent_fun_blocks_T3.md",
