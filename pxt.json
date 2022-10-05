@@ -1,5 +1,5 @@
 {
-    "name": "TranslateMCEE",
+    "name": "translatemcee",
     "version": "8.0.2",
     "dependencies": {
         "core": "*",
