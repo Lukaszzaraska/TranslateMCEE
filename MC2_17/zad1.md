@@ -1,10 +1,7 @@
-### @hideIteration true 
-### @flyoutOnly 1
-
-
-# No code is required for this activity. 
+## Krok 1
+Użyj bloczka ``||Gameplay:Ustaw czas||`` ustawiając na **dzień**
 
 ```blocks
-loops.onStart()
-```
+gameplay.timeSet(gameplay.time(DAY))
 
+```
