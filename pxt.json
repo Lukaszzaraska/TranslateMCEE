@@ -18,12 +18,7 @@
         "MC2_17/zad6.md",
         "MC2_17/zad7.md",
         "MC2_17/none.md",
-        "MC1_6/zad1.md",
-        "MC1_6/zad2.md",
-        "MC1_6/zad3.md",
-        "MC1_6/zad4.md",
-        "MC1_6/zad5.md",
-        "MC1_6/zad6.md"
+        "MC1_6/zad1.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
