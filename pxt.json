@@ -23,7 +23,7 @@
         "MC1_6/zad3.md",
         "MC1_6/zad4.md",
         "MC1_6/zad5.md",
-        "MC1_6/zad6.md"
+        "MC1_6/zad6.md",
        ],
     "targetVersions": {
         "target": "1.6.8",
