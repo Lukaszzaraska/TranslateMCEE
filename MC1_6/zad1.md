@@ -1,4 +1,11 @@
+```blocks
+agent.move(FORWARD, 3)
+albo
+agent.move(RIGHT, 3)
+albo
+agent.move(LEFT, 3)
 
+```
 ## Zadanie pierwsze
 Ustaw odpowiednio agenta na niebieskiej wełnie używając jeśli trzeba ``||agent:teleportuj do gracza||`` ,
 ``||agent:obróć się w ||`` oraz  ``||agent:przesuń się w góre||``
