@@ -23,4 +23,5 @@ execute @p ~ ~ ~ codebuilder navigate @s false http://minecraft.makecode.com/#tu
 Przykład zablokowanego samouczka
 execute @p ~ ~ ~ codebuilder navigate @s false http://minecraft.makecode.com//?lockedEditor=1#tutorial:https://github.com/Lukaszzaraska/TranslateMCEE/MC2_17/zad1
 
-Po edycji na githubie pliku należy poczekać pare minut zanim zacznie działać 
+Po edycji na githubie pliku należy poczekać pare minut zanim zacznie działać <br>
+?? Prawdopodobnie dodawanie nazw plików w pxt.json gdy dane pliki jeszcze nie istnieją LUB dodanie kilku nazw naraz w jednym commitsie powoduje przestanie działanie wszystkich plików
