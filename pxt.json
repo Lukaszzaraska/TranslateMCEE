@@ -27,7 +27,8 @@
         "MC1_4/default.md",
         "MC2_8/zad1.md",
         "MC2_8/zad2.md",
-        "MC2_8/zad3.md"
+        "MC2_8/zad3.md",
+        "MC2_8/zad4.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
