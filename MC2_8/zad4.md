@@ -12,6 +12,7 @@ blocks.place(GRASS, pos(0, 0, 0))
 ```
 ## Krok 4 
 
+Jeśli ci sie nie udało zajrzyj do podpowiedzi :)
 ```blocks
 blocks.fill(
 AIR,
