@@ -16,5 +16,5 @@ FillOperation.Replace
 )
 
 ```
-### Krok 4
+## Krok 4
 Ustawiamy ustawiania na "pusty środek"
