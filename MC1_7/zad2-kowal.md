@@ -1,4 +1,4 @@
-## Zadanie drugie - kowal
+## Zadanie u kowala
 Ustaw odpowiednio agenta na czerwonej wełnie ``||agent:teleportuj do gracza||`` ,
 ``||agent:obróć się w ||`` obróć agenta plecami do gracza lub użyj jajka agenta
 ## Krok 2
