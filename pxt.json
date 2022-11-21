@@ -35,7 +35,8 @@
          "MC2_8/none.md",
         "MC1_14/default.md",
         "MC1_7/zad1-herkules.md",
-        "MC1_7/zad2-kowal.md"
+        "MC1_7/zad2-kowal.md",
+         "MC1_7/zad3-labirynt.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
