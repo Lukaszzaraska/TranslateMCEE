@@ -9,7 +9,7 @@ for (let index = 0; index < 4; index++) {}
 ```
 
 ## Zadanie pierwsze 
-Zadanie pierwsze, pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówkę
+Pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówkę
 ## Krok 1
 Sprawdź czy agent stoi na fioletowym bloczku, **jeśli nie** to stań na tym bloczku i teleportuj 
 agenta do gracza ``||agent.agent teleportuj do gracza||``
