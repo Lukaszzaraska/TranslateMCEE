@@ -1,3 +1,13 @@
+```blocks
+agent.setItem(STONE, 10, 1)
+agent.teleportToPlayer()
+agent.turn(LEFT_TURN)
+agent.place(DOWN)
+agent.move(FORWARD, 1)
+agent.destroy(FORWARD)
+for (let index = 0; index < 4; index++) {}
+```
+
 ## Zadanie pierwsze 
 Zadanie pierwsze, pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówkę
 ## Krok 1
