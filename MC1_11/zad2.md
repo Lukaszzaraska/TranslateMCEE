@@ -1,3 +1,11 @@
+```blocks
+agent.teleportToPlayer()
+agent.turn(LEFT_TURN)
+agent.move(FORWARD, 1)
+agent.destroy(FORWARD)
+for (let index = 0; index < 4; index++) {}
+```
+
 ## Zadanie drugie
 Pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówkę
 ## Krok 1
