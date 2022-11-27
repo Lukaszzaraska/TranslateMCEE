@@ -26,6 +26,7 @@ Spróbuj zrobić program samemu, jeśli nie dajesz rady, zobacz kolejny krok
 ## Krok 3
 Gotowy program powinien wyglądać w ten sposób
 ```blocks
+agent.setItem(STONE, 10, 1)
 for (let index = 0; index < 7; index++) {
 agent.move(FORWARD,1)
 agent.place(DOWN)}
