@@ -30,7 +30,7 @@ Dopisz minusy w odpowiednie miejsca, wzór programu masz w podpowiedzi
 blocks.fill(
 STONE,
 pos(1, 0, 1),
-pos(3, 0, 3),
+pos(3, 6, 3),
 FillOperation.Replace
 )
 ```
