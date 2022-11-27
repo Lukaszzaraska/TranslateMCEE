@@ -17,7 +17,7 @@ Pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówk�
 o to one (11,68,8-4) (11,65,-79) (11,65,-80)
 ## Krok 2 
 Musimy postawić tam blok żeby je zatkać, użyjemy do tego ``||blocks: umieść kamień w (0,0,0)||`` oraz koordynatów bezzwględnych 
-``|| position: world(0, 0, 0)``||
+``||position: world(0, 0, 0)||``
 
 ```blocks
 blocks.place(GRASS, world(0, 0, 0))
