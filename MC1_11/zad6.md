@@ -15,7 +15,7 @@ Stań na fioletowym bloku
 
 ## Krok 2
 Sprawdź jak zmieniają się koordynaty gdy będziesz przechodzić z fioletowego bloczku na czerwony.
-Czy na plus czy na minus. Pierwsze koordynaty są oddalone o 1 klocek od cb a drugie o 3
+Czy na plus czy na minus. Pierwsze koordynaty są oddalone o 1 klocek od ciebie a drugie o 3 klocki
 ```blocks
 blocks.fill(
 GRASS,
