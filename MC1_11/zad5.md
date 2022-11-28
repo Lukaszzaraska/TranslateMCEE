@@ -14,7 +14,7 @@ for (let index = 0; index < 4; index++) {}
 Pamiętaj aby uważnie czytać polecenia, wrazie problemów kliknij na żarówkę
 ## Krok 1
 Żeby przejść dalej musimy zatkać dziury z kótrych leje się lawa, nasze sondy podały nam ich koordynaty
-o to one (11,68,8-4) (11,65,-79) (11,65,-80)
+o to one (11,68,-84) (11,65,-79) (11,65,-80)
 ## Krok 2 
 Musimy postawić tam blok żeby je zatkać, użyjemy do tego ``||blocks: umieść kamień w (0,0,0)||`` oraz koordynatów bezzwględnych 
 ``||position: world(0, 0, 0)||``
@@ -23,7 +23,7 @@ Musimy postawić tam blok żeby je zatkać, użyjemy do tego ``||blocks: umieś�
 blocks.place(GRASS, world(0, 0, 0))
 ```
 ## Krok 3 
-Tworzymy kod i wpisujemy poprawne koordynaty *(11,68,8-4) (11,65,-79) (11,65,-80)*
+Tworzymy kod i wpisujemy poprawne koordynaty *(11,68,-84) (11,65,-79) (11,65,-80)*
 ```blocks
 blocks.place(STONE, world(0, 0, 0))
 blocks.place(STONE, world(0, 0, 0))
