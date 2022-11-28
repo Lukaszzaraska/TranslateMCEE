@@ -38,14 +38,14 @@
         "MC1_7/zad2-kowal.md",
          "MC1_7/zad3-labirynt.md",
         "MC1_7/none.md",
-        "MC1_11/zad1.md",
-        "MC1_11/zad2.md",
-        "MC1_11/zad3.md",
-        "MC1_11/zad4.md",
-        "MC1_11/zad5.md",
-        "MC1_11/zad6.md",
-        "MC1_11/zad7.md",
-        "MC1_11/none.md"
+        "MC2_11/zad1.md",
+        "MC2_11/zad2.md",
+        "MC2_11/zad3.md",
+        "MC2_11/zad4.md",
+        "MC2_11/zad5.md",
+        "MC2_11/zad6.md",
+        "MC2_11/zad7.md",
+        "MC2_11/none.md"
        ],
     "targetVersions": {
         "target": "1.6.8",
