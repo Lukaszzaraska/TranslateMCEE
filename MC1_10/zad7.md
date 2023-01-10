@@ -4,7 +4,6 @@
     agent.detect(AgentDetection.Block, FORWARD)
     agent.teleportToPlayer()
     for (let index = 0; index < 4; index++) {}
-    function onStart(){}
     function while (true) {}
     if(){}else{}
 ```
