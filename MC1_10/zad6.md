@@ -1,3 +1,12 @@
+```blocks
+    agent.move(FORWARD, 1)
+    agent.turn(LEFT_TURN)
+    agent.destroy(FORWARD)
+    agent.teleportToPlayer()
+    for (let index = 0; index < 4; index++) {}
+    function onStart(){}
+
+```
 ## Zadanie 6
 Ustaw odpowiednio agenta przed wełną, używając ``||agent:teleportuj do gracza||`` ,
 ``||agent:obróć się w ||`` lub  ``||agent:przesuń się w przód||``
