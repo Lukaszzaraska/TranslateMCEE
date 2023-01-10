@@ -1,3 +1,12 @@
+```blocks
+    agent.move(FORWARD, 1)
+    agent.turn(LEFT_TURN)
+    agent.destroy(FORWARD)
+    agent.teleportToPlayer()
+    for (let index = 0; index < 4; index++) {}
+    function onStart(){}
+
+```
 ## Zadanie 3
 Ustaw odpowiednio agenta na bloku emeraldu, używając ``||agent:teleportuj do gracza||`` ,
 ``||agent:obróć się w ||`` oraz  ``||agent:przesuń się do przodu||``
